@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc465914f7b939cefe773f5453aab6af",
+    "revision": "9c6c9685f6e71b9cf4020f551d04e56d",
     "url": "https://wjmn.github.io/quickalias/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://wjmn.github.io/quickalias/manifest.json"
   },
   {
-    "revision": "b91d10553aeee84a4c6b",
-    "url": "https://wjmn.github.io/quickalias/static/css/main.90c38a0a.chunk.css"
+    "revision": "946c69f452e7d7d5a56e",
+    "url": "https://wjmn.github.io/quickalias/static/css/main.abead73e.chunk.css"
   },
   {
-    "revision": "b91d10553aeee84a4c6b",
-    "url": "https://wjmn.github.io/quickalias/static/js/main.b91d1055.chunk.js"
+    "revision": "946c69f452e7d7d5a56e",
+    "url": "https://wjmn.github.io/quickalias/static/js/main.946c69f4.chunk.js"
   },
   {
     "revision": "8583b0e16bbcc9e7e1dc",

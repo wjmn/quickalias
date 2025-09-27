@@ -1,7 +1,7 @@
 {
-  "main.css": "https://wjmn.github.io/quickalias/static/css/main.90c38a0a.chunk.css",
-  "main.js": "https://wjmn.github.io/quickalias/static/js/main.b91d1055.chunk.js",
-  "main.js.map": "https://wjmn.github.io/quickalias/static/js/main.b91d1055.chunk.js.map",
+  "main.css": "https://wjmn.github.io/quickalias/static/css/main.abead73e.chunk.css",
+  "main.js": "https://wjmn.github.io/quickalias/static/js/main.946c69f4.chunk.js",
+  "main.js.map": "https://wjmn.github.io/quickalias/static/js/main.946c69f4.chunk.js.map",
   "runtime~main.js": "https://wjmn.github.io/quickalias/static/js/runtime~main.8583b0e1.js",
   "runtime~main.js.map": "https://wjmn.github.io/quickalias/static/js/runtime~main.8583b0e1.js.map",
   "vendors~main.js": "https://wjmn.github.io/quickalias/static/js/vendors~main.ded87515.chunk.js",
@@ -9,5 +9,5 @@
   "./service-worker.js": "https://wjmn.github.io/quickalias/./service-worker.js",
   "index.html": "https://wjmn.github.io/quickalias/index.html",
   "manifest.json": "https://wjmn.github.io/quickalias/manifest.json",
-  "precache-manifest.a6d29a98eb8f56bfb8fe5fa88781f96d.js": "https://wjmn.github.io/quickalias/precache-manifest.a6d29a98eb8f56bfb8fe5fa88781f96d.js"
+  "precache-manifest.a2c4ac95f85812dade7bfc5d8edd892e.js": "https://wjmn.github.io/quickalias/precache-manifest.a2c4ac95f85812dade7bfc5d8edd892e.js"
 }
